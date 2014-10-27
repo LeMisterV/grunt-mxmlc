@@ -1,6 +1,5 @@
 var path = require('path');
 
-var ncp = require('ncp');
 var rsvp = require('rsvp');
 
 var nodeMxmlc = require('node-mxmlc');
