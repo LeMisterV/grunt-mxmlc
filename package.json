@@ -14,7 +14,7 @@
   "author": "FTVEN",
   "license": "ISC",
   "dependencies": {
-    "node-mxmlc": "git://github.com/LeMisterV/node-mxmlc.git#1.0.1",
+    "node-mxmlc": "git://github.com/LeMisterV/node-mxmlc.git#1.0.2",
     "rsvp": "^3.0.14"
   },
   "peerDependencies": {
