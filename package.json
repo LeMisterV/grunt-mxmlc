@@ -1,7 +1,7 @@
 {
   "name": "grunt-mxmlc",
   "description": "Grunt task to compile Flex using mxmlc SDK",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "tasks/mxmlc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,10 @@
   "license": "ISC",
   "dependencies": {
     "node-mxmlc": "git://github.com/LeMisterV/node-mxmlc.git#1.0.2",
-    "rsvp": "^3.0.14"
+    "rsvp": "^3.5.0"
   },
   "peerDependencies": {
-    "grunt": "^0.4.0"
+    "grunt": "*"
   },
   "devDependencies": {
     "grunt": "*",
